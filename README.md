@@ -1,4 +1,4 @@
-![Rue's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarue1&show_icons=true&theme=radical)
+![Rue's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarue1&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaRue1&theme=radical)](https://github.com/jarue1)
 
