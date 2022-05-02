@@ -11,7 +11,7 @@
 <img align="left" src='https://github-readme-stats.vercel.app/api/wakatime?username=jaRue1&theme=radical&layout=compact'/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=jarue1&langs_count=10&layout=compact&theme=radical'/>
+<img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=jarue1&langs_count=10&layout=compact&theme=radical'/>
 </a>
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
