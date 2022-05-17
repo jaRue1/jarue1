@@ -1,6 +1,6 @@
 ![Rue's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarue1&show_icons=true&theme=radical&count_private=true)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaRue1&theme=radical)](https://github.com/jarue1)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaRue1&theme=radical&v=2)](https://github.com/jarue1)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarue1&langs_count=10&layout=compact&theme=radical)](https://github.com/jarue1)
 
