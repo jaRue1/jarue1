@@ -1,6 +1,8 @@
 
 
 ### Hello 👋
+![Rue's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarue1&show_icons=true&theme=radical&count_private=true)
+
 
 - ⚡ Fun fact:
 
