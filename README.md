@@ -1,8 +1,4 @@
-![Rue's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarue1&show_icons=true&theme=radical&count_private=true)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarue1&langs_count=10&layout=compact&theme=radical)](https://github.com/jarue1)
 
 ### Hello 👋
 
