@@ -4,17 +4,11 @@
 ![Rue's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarue1&show_icons=true&theme=radical&count_private=true)
 
 
-- ⚡ Fun fact:
+- ⚡ Fun fact: I am huge golf enthusiast
 
-  - I am huge golf enthusiast
+- 🌱 I’m currently learning: How to use SOLID Pricnples in the real world !
 
-- 🌱 I’m currently learning:
-
-  - Test Driven Development
-  - Dev Ops Best Practices
-
-- 📫 How to reach me:
-  - instagram: jarue_johnson
+- 📫 How to reach me: email: jaruejohnson@outlook.com
 
 <!-- **jaRue1/jarue1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
