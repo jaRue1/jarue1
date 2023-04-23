@@ -6,7 +6,7 @@
 
 - ⚡ Fun fact: I am huge golf enthusiast
 
-- 🌱 I’m currently learning: How to use SOLID Pricnples in the real world !
+- 🌱 I’m currently learning: How to use SOLID Principles in the real world !
 
 - 📫 How to reach me: email: jaruejohnson@outlook.com
 
