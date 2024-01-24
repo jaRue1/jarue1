@@ -4,7 +4,7 @@
 
 <!--![Rue's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarue1&show_icons=true&theme=radical&count_private=true) -->
 
-- ⚡ Fun fact: I like to play golf, travel, make music, and work out 
+- ⚡ Fun fact: I like to play golf, travel, and work out 
 
 - 🌱 I’m currently learning: Implementing SOLID Principles in the real world !
 
